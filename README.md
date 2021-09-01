@@ -36,7 +36,7 @@ Ci-dessous le résultat de la requête suivante: <img src="http://image.noelshac
 {"name":"Joe","birthday":"2021-12-12T00:00:00.000Z","weight":50,"steps":0,"isRunning":false,"createdAt":"2021-09-01T06:02:15.898Z","updatedAt":"2021-09-01T06:02:15.898Z","id":"612f176753110f7a15a6fe89"}]
 ```
 
-Il est possible d'ajouter un parametre pour effectuer une recherche par nom (nom en endpoint) ou de mettre le mot-clé "running" en endpoint pour afficher tous les Chickens qui sont en état de course: True.
+Il est possible d'ajouter un paramètre pour effectuer une recherche par nom (nom en endpoint) ou de mettre le mot-clé "running" en endpoint pour afficher tous les Chickens qui sont en état de course: True.
 
 <img src="http://image.noelshack.com/fichiers/2021/35/3/1630477050-img1.png" width="220"/>
 
