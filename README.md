@@ -1,4 +1,4 @@
-# API Chickenrun
+# API Chicken Run
 API simple utilisant un webservice CRUD (node.js, express, mongoose).
 
 #### Arborescence:
