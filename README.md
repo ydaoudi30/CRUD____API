@@ -1,5 +1,5 @@
 # API Chickenrun
-API simple utilisant un webservice CRUD (node.js, express, mongoose)
+API simple utilisant un webservice CRUD (node.js, express, mongoose).
 
 #### Arborescence:
 <img src="http://image.noelshack.com/fichiers/2021/35/3/1630473759-img1.png" width="220"/>
@@ -13,7 +13,7 @@ API simple utilisant un webservice CRUD (node.js, express, mongoose)
 
 #### Requêtes:
 
-Potman et MongoDB Compass sont utilisés pour les tests de requêtes et la visualisation.
+Postman et MongoDB Compass sont utilisés pour les tests de requêtes et la visualisation.
 
 Les données sont stockées en format JSON sur une base de données MongoDB.
 
